@@ -1,0 +1,25 @@
+  .body {
+      font-family: "Verdana";
+      margin: 25px;
+  }
+  
+  .parent {
+      width: 80%;
+      background-color: white;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      margin-bottom: 25px;
+      position: relative;
+  }
+  
+  .children {
+      text-align: right;
+      padding: 90px 30px;
+  }
+  
+  .topright {
+      color: white;
+      font-size: 40px;
+      position: absolute;
+      top: 8px;
+     right: 16px;
+  }
